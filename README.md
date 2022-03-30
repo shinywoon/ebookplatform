@@ -6,7 +6,7 @@ prac
 
 
 1. main view mestache
-2. controller
+2. restcontroller
 3. Dto
 4. entity
 5. repository
