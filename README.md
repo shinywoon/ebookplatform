@@ -6,7 +6,7 @@ prac
 
 
 1. main view mestache
-2. restcontroller
+2. controller
 3. Dto
 4. entity
 5. repository
@@ -14,3 +14,4 @@ prac
 7. db 연동
   - 기본 Data 입력 해두기
   - 
+8. restcontroller
